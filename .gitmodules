@@ -1,0 +1,3 @@
+[submodule "openfst"]
+	path = openfst
+	url = git@github.com:unixnme/openfst
